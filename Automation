@@ -1,0 +1,96 @@
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  lombok.extern.java.Log  - ..ending test successful login executed...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  lombok.extern.java.Log  - ..ending test successful login executed...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  lombok.extern.java.Log  - ..ending test successful login executed...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  lombok.extern.java.Log  - CHILD CLASS BEFORE CALLED
+[main] INFO  lombok.extern.java.Log  - ...........starting test successFullLogin...
+[main] INFO  lombok.extern.java.Log  - ..ending test successful login executed...
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
+[main] INFO  BaseSetUp  - before class
+[main] INFO  BaseSetUp  - before of parent class called
+[main] INFO  LocatorsTest  - Child Class before called
