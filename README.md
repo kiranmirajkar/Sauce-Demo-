@@ -1,4 +1,4 @@
-# Sauce-Demo-
+# Sauce-Demo
 What is this?
 This is a sample test automation framework for www.saucedemo.com. SauceDemo is a sample website built by SauceLabs that allows users to practice browser automation.
 
@@ -24,8 +24,10 @@ These tests cover many test cases such as signing in/out.
 Languages and Frameworks
 The project uses the following languages and frameworks:
 
-Java 8 as the programming language
-Selenium WebDriver as the web browser automation framework
-WebDriverManager as the Selenium binaries management
+Java 8 as the programming language.
+Selenium WebDriver as the web browser automation framework.
+WebDriverManager as the Selenium binaries management.
+
+
 Author
 Kiran Mirajkar
